@@ -50,6 +50,4 @@ Academic and practical projects related to data processing, machine learning, an
 
 ## 📫 Contact
 
-Email: your-email@example.com  
-LinkedIn: your-linkedin-link  
-Portfolio: your-portfolio-link
+Email: alisakhojaian1@gmail.com
