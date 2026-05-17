@@ -1,4 +1,4 @@
-# Hi, I'm Alina 👋
+# Hi, I'm Alisa 👋
 
 I am a Physics and Artificial Intelligence student from Armenia, focused on web development, data processing, and AI-powered business solutions.
 
